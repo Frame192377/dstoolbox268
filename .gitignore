@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+*.log
+*.pot
+*.pyo
+
+# Database
+# ไฟล์ฐานข้อมูลจากภาพของคุณ
+db.sqlite3
+
+# Environment
+# โฟลเดอร์ .venv จากภาพของคุณ
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
